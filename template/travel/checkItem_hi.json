@@ -1,0 +1,52 @@
+[
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 1,
+        "title": "पहचान पत्र",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 2,
+        "title": "टिकट तैयार",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 3,
+        "title": "सामान पैक किया",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 4,
+        "title": "कमरे की जाँच की",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 5,
+        "title": "चार्जर पैक किए",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    }
+]

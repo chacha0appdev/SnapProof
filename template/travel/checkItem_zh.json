@@ -1,0 +1,52 @@
+[
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 1,
+        "title": "身份证件",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 2,
+        "title": "车票已准备",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 3,
+        "title": "行李已打包",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 4,
+        "title": "房间已检查",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 5,
+        "title": "充电器已打包",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    }
+]

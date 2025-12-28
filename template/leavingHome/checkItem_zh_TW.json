@@ -1,0 +1,52 @@
+[
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 1,
+        "title": "門已上鎖",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 2,
+        "title": "瓦斯已關閉",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 3,
+        "title": "燈已關閉",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 4,
+        "title": "窗戶已關閉",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 5,
+        "title": "冷氣已關閉",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 1,
+        "title": "दरवाज़ा बंद किया",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 2,
+        "title": "गैस बंद की",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 3,
+        "title": "लाइट बंद की",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 4,
+        "title": "खिड़कियाँ बंद कीं",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 5,
+        "title": "एयर कंडीशनर बंद किया",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 1,
+        "title": "신분증",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 2,
+        "title": "티켓 준비 완료",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 3,
+        "title": "짐 챙김",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 4,
+        "title": "방 확인",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    },
+    {
+        "id": -1,
+        "checkListId": 1,
+        "sortNo": 5,
+        "title": "충전기 챙김",
+        "isChecked": false,
+        "checkCedDt": null,
+        "remarks": "",
+        "evidenceNum": 0
+    }
+]
