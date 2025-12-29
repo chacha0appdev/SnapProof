@@ -1,6 +1,6 @@
 # Conditions d'utilisation
 
-Les présentes conditions d'utilisation (ci-après les « Conditions ») définissent les conditions d'utilisation de l'application Snap Proof (ci-après l’« Application ») fournie par Yuki Ishino (ci-après « nous »). En utilisant cette application, vous êtes réputé avoir accepté les présentes Conditions.
+Les présentes conditions d'utilisation (ci-après les « Conditions ») définissent les conditions d'utilisation de l'application Snap Proof Checklist (ci-après l’« Application ») fournie par Yuki Ishino (ci-après « nous »). En utilisant cette application, vous êtes réputé avoir accepté les présentes Conditions.
 
 ## Article 1 – Champ d’application
 

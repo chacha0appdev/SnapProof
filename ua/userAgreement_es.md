@@ -1,6 +1,6 @@
 # Términos de Uso
 
-Estos Términos de Uso (en adelante, los “Términos”) establecen las condiciones para el uso de la aplicación Snap Proof (en adelante, la “Aplicación”), proporcionada por Yuki Ishino (en adelante, “nosotros”). Al utilizar esta Aplicación, se considera que el usuario acepta estos Términos.
+Estos Términos de Uso (en adelante, los “Términos”) establecen las condiciones para el uso de la aplicación Snap Proof Checklist (en adelante, la “Aplicación”), proporcionada por Yuki Ishino (en adelante, “nosotros”). Al utilizar esta Aplicación, se considera que el usuario acepta estos Términos.
 
 ## Artículo 1 – Aplicación
 

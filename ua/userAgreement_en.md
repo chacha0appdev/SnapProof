@@ -1,6 +1,6 @@
 # Terms of Service
 
-These Terms of Service (hereinafter referred to as the "Terms") set forth the conditions for use of the Snap Proof application (hereinafter referred to as the "App") provided by Yuki Ishino (hereinafter referred to as the "Provider"). By using the App, users are deemed to have agreed to these Terms.
+These Terms of Service (hereinafter referred to as the "Terms") set forth the conditions for use of the Snap Proof Checklist application (hereinafter referred to as the "App") provided by Yuki Ishino (hereinafter referred to as the "Provider"). By using the App, users are deemed to have agreed to these Terms.
 
 ## Article 1 (Application)
 

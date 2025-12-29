@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-Diese Nutzungsbedingungen (im Folgenden „die Bedingungen“) regeln die Bedingungen für die Nutzung der App Snap Proof (im Folgenden „die App“), bereitgestellt von Yuki Ishino (im Folgenden „wir“ oder „uns“). Mit der Nutzung der App stimmen Sie diesen Bedingungen zu.
+Diese Nutzungsbedingungen (im Folgenden „die Bedingungen“) regeln die Bedingungen für die Nutzung der App Snap Proof Checklist (im Folgenden „die App“), bereitgestellt von Yuki Ishino (im Folgenden „wir“ oder „uns“). Mit der Nutzung der App stimmen Sie diesen Bedingungen zu.
 
 ## §1 (Geltungsbereich)
 

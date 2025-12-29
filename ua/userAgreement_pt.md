@@ -1,6 +1,6 @@
 # Termos de Uso
 
-Estes Termos de Uso (doravante denominados "Termos") estabelecem as condições para utilização do Snap Proof (doravante denominado "Aplicativo"), fornecido por Yuki Ishino (doravante denominado "Nós"). Ao utilizar este Aplicativo, você concorda com estes Termos.
+Estes Termos de Uso (doravante denominados "Termos") estabelecem as condições para utilização do Snap Proof Checklist (doravante denominado "Aplicativo"), fornecido por Yuki Ishino (doravante denominado "Nós"). Ao utilizar este Aplicativo, você concorda com estes Termos.
 
 ## Artigo 1 – Aplicação
 
